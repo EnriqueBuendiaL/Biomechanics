@@ -1,4 +1,4 @@
-# Biomechanics
+# Biomechanics e Inteligencia Artificial
 *Buap, México. Facultad de Cultura Física*
 *Enrique Ricardo Pablo Buendia Lozada <buendiaenr1@gmail.com>*
 
