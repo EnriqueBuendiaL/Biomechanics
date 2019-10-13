@@ -14,8 +14,8 @@ Tener en la misma carpeta de la aplicacion los siguientes archivos CSV
 - automaticoFCM
 - automaticoFCR
 - cortes
-- esfuerzo26022019
-- reposo26022019
+- esfuerzo26022019c
+- reposo26022019c
 - Install:
 
 ** import pandas as pd
