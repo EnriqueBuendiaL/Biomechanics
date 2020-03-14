@@ -1,4 +1,4 @@
-# Biomechanics e Inteligencia Artificial
+# Biomechanics e Inteligencia Artificial   Crear modelo FCmax y frecuencia cardiaca en reposo
 *Buap, México. Facultad de Cultura Física*
 *Enrique Ricardo Pablo Buendia Lozada <buendiaenr1@gmail.com>*
 
